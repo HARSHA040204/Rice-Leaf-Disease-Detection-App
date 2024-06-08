@@ -30,7 +30,7 @@ The dataset can be accessed [here](https://www.kaggle.com/datasets/dedeikhsandwi
 
 ## How to Run
 
-1. Open the project in Android Studio.
+1. After downloading the project files, open the project in Android Studio.
 2. In the terminal, run:
    ```sh
    flutter pub get
