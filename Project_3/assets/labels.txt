@@ -1,0 +1,7 @@
+narrow_brown_spot
+leaf_scald
+leaf_blast
+healthy
+brown_spot
+bacterial_leaf_blight
+not_there

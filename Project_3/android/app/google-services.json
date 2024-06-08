@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228854299839",
+    "project_id": "hatespeechdetection-bot",
+    "storage_bucket": "hatespeechdetection-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228854299839:android:d1ff046730499ad8321a0a",
+        "android_client_info": {
+          "package_name": "com.example.project_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228854299839-ggo8o2po1dq36a1b1bv5gn8m8p95c3o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpI1pzoAzjYgnOpzqvkOlQr4UWGUazhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228854299839-ggo8o2po1dq36a1b1bv5gn8m8p95c3o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
