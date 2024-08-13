@@ -1,4 +1,4 @@
-# Rice Leaf Disease Detection
+# Rice Leaf Disease Detection App(AgriGuardian)
 
 ## About the Project
 
